@@ -1,1 +1,2 @@
-FROM al
+FROM alpine:latest
+CMD echo "Hello, World"

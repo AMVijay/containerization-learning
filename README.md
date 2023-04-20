@@ -2,10 +2,7 @@
 
 ## Introduction
 Containerization is about  
-* packaging application code and required Operating System libraries to run the code in any container execution platform on any operating system.
-
-### Is JVM a Container Platform?
-By definition, in my view, JVM is kind of container platform (limited features). JVM is installed in operating system which controls the memory, CPU and thread allocation. JVM can run the compiled Java classes developed in any environment.
+* Packaging the application executable code and required library needed to run the code together and execute this package in container engine runs on an operating system.
 
 ## Types of Container
 * Docker
